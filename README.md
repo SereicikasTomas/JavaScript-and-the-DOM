@@ -1,0 +1,1 @@
+Quick project to learn how JavaScript lets you create interactive web pages which can respond to a user's actions.
